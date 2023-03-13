@@ -8,13 +8,14 @@ WeatherForecast applicastion using c(GTK) and python
 
 
 
-![1](https://user-images.githubusercontent.com/118742334/224647845-6110c97d-2887-42a3-9251-333d17dbb381.png)
+          ![1](https://user-images.githubusercontent.com/118742334/224647845-6110c97d-2887-42a3-9251-333d17dbb381.png)
 
 
 
+  User can Enter the city of his/her wish.
 
 
-![2](https://user-images.githubusercontent.com/118742334/224648322-0db8d518-571b-4794-adc1-ab58d2243de7.png)
+          ![2](https://user-images.githubusercontent.com/118742334/224648322-0db8d518-571b-4794-adc1-ab58d2243de7.png)
 
 
 
@@ -25,4 +26,4 @@ WeatherForecast applicastion using c(GTK) and python
   
   
   
-![3](https://user-images.githubusercontent.com/118742334/224648920-4ec2c5e0-cfe1-4d8e-9087-0708befb22e4.png)
+          ![3](https://user-images.githubusercontent.com/118742334/224648920-4ec2c5e0-cfe1-4d8e-9087-0708befb22e4.png)
