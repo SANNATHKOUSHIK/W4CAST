@@ -27,3 +27,22 @@ WeatherForecast applicastion using c(GTK) and python
   
   
    ![3](https://user-images.githubusercontent.com/118742334/224648920-4ec2c5e0-cfe1-4d8e-9087-0708befb22e4.png)
+   
+  # Error
+  
+  **Network error**
+  
+  
+  ![4](https://user-images.githubusercontent.com/118742334/224653493-ef90dc22-44b1-4da7-97a3-bc328bce29c1.png)
+
+    
+    
+   **Input Error**
+
+
+
+   ![5](https://user-images.githubusercontent.com/118742334/224653774-01cca316-40e8-4811-8467-9a96a06a2fda.png)
+
+   
+    
+  
