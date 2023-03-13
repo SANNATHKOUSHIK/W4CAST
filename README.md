@@ -32,8 +32,9 @@ WeatherForecast applicastion using c(GTK) and python
   
   **Network error**
   
+  ![7](https://user-images.githubusercontent.com/118742334/224695610-94805ef7-d308-454a-aa93-0de3a9158138.png)
+
   
-  ![4](https://user-images.githubusercontent.com/118742334/224653493-ef90dc22-44b1-4da7-97a3-bc328bce29c1.png)
 
     
     
