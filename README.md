@@ -39,10 +39,9 @@ WeatherForecast applicastion using c(GTK) and python
     
    **Input Error**
 
+  
 
+   ![6](https://user-images.githubusercontent.com/118742334/224692706-116a39cb-4551-486b-8bbe-142f38bb0a15.png)
 
-   ![5](https://user-images.githubusercontent.com/118742334/224653774-01cca316-40e8-4811-8467-9a96a06a2fda.png)
-
-   
     
   
