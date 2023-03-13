@@ -26,4 +26,4 @@ WeatherForecast applicastion using c(GTK) and python
   
   
   
-\t\t\t   ![3](https://user-images.githubusercontent.com/118742334/224648920-4ec2c5e0-cfe1-4d8e-9087-0708befb22e4.png)
+   ![3](https://user-images.githubusercontent.com/118742334/224648920-4ec2c5e0-cfe1-4d8e-9087-0708befb22e4.png)
