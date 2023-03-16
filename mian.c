@@ -8,16 +8,18 @@ GtkWidget *label1;
 static void btnclick(GtkWidget *a, gpointer data)
 {
     FILE *w,*r;
-    char buffer[65];
+    char buffer[64];
     w = fopen("city.csv","w");
     fputs(gtk_entry_get_text(GTK_ENTRY(data)),w);
     fclose(w);
     gtk_entry_set_text(GTK_ENTRY(data),"");
     system("python3 main.py");
-    r = fopen("city.csv", "r+");
-    fread(buffer,sizeof(char),65,r);
+    r = fopen("city.csv", "r");
+    fread(buffer,sizeof(char),64,r);
+    char out[(strlen(buffer)-10)];
+    strcpy(out,buffer);
     fclose(r);
-    gtk_label_set_text(GTK_LABEL(label1),buffer);
+    gtk_label_set_text(GTK_LABEL(label1),out);
 
 
 }
