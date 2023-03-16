@@ -21,7 +21,7 @@ WeatherForecast applicastion using c(GTK) and python
 
 
 
-  The requested city is then saved in the csv file and read by pythonfile. Python file scraps the webpage with the city rerad from the csv file and reutrns the weather details to the csv file again. The c program will reads the weather details from the csv file and returns the output to the window loop.
+  The requested city is then saved in the csv file and read by pythonfile. Python file scraps the webpage with the city read from the csv file and reutrns the weather details to the csv file again. The c program will reads the weather details from the csv file and returns the output to the window loop.
   
   
   
